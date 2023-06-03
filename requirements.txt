@@ -1,70 +1,44 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: linux-64
-_libgcc_mutex=0.1
-_openmp_mutex=5.1
-anyio=3.7.0
-bzip2=1.0.8=h7b6447c_0
-ca-certificates=2023.5.7
-cachecontrol=0.13.0
-cachetools=5.3.1
-certifi=2023.5.7
-cffi=1.15.1
-charset-normalizer=3.1.0
-click=8.0.4
-cryptography=41.0.1
-exceptiongroup=1.1.1
-fastapi=0.96.0
-firebase-admin=6.1.0
-google-api-core=2.11.0
-google-api-python-client=2.88.0
-google-auth=2.19.1
-google-auth-httplib2=0.1.0
-google-cloud-core=2.3.2
-google-cloud-firestore=2.11.1
-google-cloud-storage=2.9.0
-google-crc32c=1.5.0
-google-resumable-media=2.5.0
-googleapis-common-protos=1.59.0
-grpcio=1.54.2
-grpcio-status=1.54.2
-h11=0.12.0
-httplib2=0.22.0
-idna=3.4
-ld_impl_linux-64=2.38
-libffi=3.4.4
-libgcc-ng=11.2.0
-libgomp=11.2.0
-libstdcxx-ng=11.2.0
-libuuid=1.41.5
-msgpack=1.0.5
-ncurses=6.4
-openssl=1.1.1t=
-pip=23.0.1
-proto-plus=1.22.2
-protobuf=4.23.2
-pyasn1=0.5.0
-pyasn1-modules=0.3.0
-pycparser=2.21
-pydantic=1.10.2
-pyjwt=2.7.0
-pyparsing=3.0.9
-python=3.11.3
-readline=8.2
-requests=2.31.0
-rsa=4.9
-setuptools=67.8.0
-six=1.16.0
-sniffio=1.3.0
-sqlite=3.41.2
-starlette=0.27.0
-tk=8.6.12=h1ccaba5_0
-typing-extensions=4.6.3
-typing_extensions=4.6.3
-tzdata=2023c=h04d1e81_0
-uritemplate=4.1.1
-urllib3=1.26.16
-uvicorn=0.20.0
-wheel=0.38.4
-xz=5.4.2
-zlib=1.2.13
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1685486400275/work/dist
+CacheControl==0.13.0
+cachetools==5.3.1
+certifi==2023.5.7
+cffi==1.15.1
+charset-normalizer==3.1.0
+click @ file:///work/ci_py311/click_1676825163161/work
+cryptography==41.0.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1678703645500/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1685818786592/work
+firebase-admin==6.1.0
+google-api-core==2.11.0
+google-api-python-client==2.88.0
+google-auth==2.19.1
+google-auth-httplib2==0.1.0
+google-cloud-core==2.3.2
+google-cloud-firestore==2.11.1
+google-cloud-storage==2.9.0
+google-crc32c==1.5.0
+google-resumable-media==2.5.0
+googleapis-common-protos==1.59.0
+grpcio==1.54.2
+grpcio-status==1.54.2
+h11 @ file:///tmp/build/80754af9/h11_1620423447028/work
+httplib2==0.22.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+msgpack==1.0.5
+proto-plus==1.22.2
+protobuf==4.23.2
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+pydantic @ file:///work/ci_py311/pydantic_1676842103705/work
+PyJWT==2.7.0
+pyparsing==3.0.9
+requests==2.31.0
+rsa==4.9
+six==1.16.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1684245096404/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1685704949284/work
+uritemplate==4.1.1
+urllib3==1.26.16
+uvicorn @ file:///work/ci_py311_2/uvicorn-split_1679340461072/work
