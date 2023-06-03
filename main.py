@@ -7,6 +7,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
+    "https://techno-guide.vercel.app/"
 ]
 
 app.add_middleware(
