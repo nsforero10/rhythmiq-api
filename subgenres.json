@@ -1,0 +1,307 @@
+{
+  "subgenres": [
+    {
+      "name": "Detroit Techno",
+      "id": "detroit-techno",
+      "bpmRange": {
+        "min": 142,
+        "max": 165
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/6q6GIAIjB84nfT9TkSdOqP?si=b2d38d3752ab4630",
+      "artist": [
+        "Kraftwerk",
+        "Devo",
+        "The Human League",
+        "Gary Numan",
+        "Juan Atkins",
+        "Derrick May",
+        "Underground Resistance",
+        "Jeff Mills",
+        "The Belleville Three",
+        "Kevin Saunderson",
+        "Eddie Fowlkes",
+        "Kenny Larkin",
+        "Keith Tucker"
+      ],
+      "description": "When Chicago DJs were innovating disco in the form of House music in the 80s, musicians Derek May, Juan Atkins, and Derek Saunderson worked to develop a futuristic sound that was inspired by New Wave European electronic music made by artists like Kraftwerk, Devo, The Human League and Gary Numan. They fused these sounds with the funk and groove of African-American styles of music. This music mirrored the trials and tribulations of the Detroit youth. The city was in recession, it had become an industrial wasteland where the crime rate was very high. This new sound reflected the “urban decay” and came to be known as ‘Detroit Techno’.",
+      "colors": {
+        "background": "2B003A",
+        "title": "FF008F"
+      }
+    },
+    {
+      "name": "Minimal Techno",
+      "id": "minimal-techno",
+      "bpmRange": {
+        "min": 125,
+        "max": 130
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/1PjL2sEJl3L8CY3T1Q9Dk9?si=806bc1417e2741ca",
+      "artist": [
+        "Boris Brejcha",
+        "Richie Hawtin",
+        "Ricardo Villalobos",
+        "Kate Simko",
+        "Joachim Spieth",
+        "Simina Grigoriu",
+        "The Field",
+        "Joseph Capriati",
+        "Robert Hood"
+      ],
+      "description": "Minimal Techno ranges from 125 to 130 BPM and 128 BPM is often regarded as the optimum tempo for it. It emerged in the 90s and there are two main characteristics of this sound: “skeletalism” which uses embellishments only to add variation to the song and the emphasis is on the core elements such as the beat and groove; and “massification” which contains many layers but only with a few sonic elements. The essence of this genre is repetition, subtle changes, and the overall sense of being stripped down to only the bare essentials. The Detroit-based producers Robert Hood and Daniel Bell are credited for bringing this new sound into the limelight. Some of the prominent names in Minimal Techno today are Ricardo Villalobos, Trentemøller, and Monolake.",
+      "colors": {
+        "background": "060A24",
+        "title": "7C00FF"
+      }
+    },
+    {
+      "name": "Industrial Techno",
+      "id": "industrial-techno",
+      "bpmRange": {
+        "min": 140,
+        "max": 160
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/0I6GbTbAPBkQeqjUs6NpSn?si=1546acc489534773",
+      "artist": [
+        "Rhys Fulber",
+        "DJ Speedsick",
+        "WNDRLST",
+        "E‐Saggila",
+        "6EJOU",
+        "Jordan Hemenway",
+        "Kalte Liebe",
+        "The Empire Line",
+        "Tommy Four Seven"
+      ],
+      "description": "Influenced by the noisy sound and aesthetic of Industrial music artists such as Cabaret Voltaire and Throbbing Gristle, Industrial Techno emerged in the 90s and experienced a resurgence in the 2010s. Artists such as Cut Hands, Surgeon, and Helena Hauff play Industrial Techno.",
+      "colors": {
+        "background": "220B02",
+        "title": "FF008F"
+      }
+    },
+    {
+      "name": "Deep Techno",
+      "id": "deep-techno",
+      "bpmRange": {
+        "min": 120,
+        "max": 145
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/6A1Oni5mNuBSC6n2UHOV3Q?si=e817f1f399bc4b68",
+      "artist": [
+        "Adam Beyer",
+        "Ae:ther",
+        "Stephan Jolk",
+        "Andy Bros",
+        "Nina Kraviz",
+        "Esteble",
+        "Aleja Sanchez",
+        "Bookwood",
+        "Max Cooper"
+      ],
+      "description": "Deep techno is a broad umbrella of music that is generally ambient and the focus is on dancing and physical movement. The beat is simple and repetitive, with a booming kick drum. This makes it more danceable. Vocals are textured and synths are used not for melody but to add layers to the sound. The arrangements are simple and focus more on emotion than gloss. Jeran Portis is a notable artist in this genre.",
+      "colors": {
+        "background": "30002B",
+        "title": "E000C0"
+      }
+    },
+    {
+      "name": "Acid Techno",
+      "id": "acid-techno",
+      "bpmRange": {
+        "min": 130,
+        "max": 135
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/4HNWXM1Vn1ZFlSF13mo3nv?si=616b2ebc630c4c5a",
+      "artist": [
+        "Chris Liberator",
+        "999999999",
+        "Krl Mx",
+        "Regal",
+        "Teik Arô",
+        "Charles Fenckler",
+        "UNNAMED (UNMD)",
+        "Vlinder Vos",
+        "Minimum Syndicat"
+      ],
+      "description": "Often referred to as “Acid”, Acid Techno is a derivative of Acid House which developed in Europe in the late 80s and early 90s. The Roland TB-303 bass synthesizer gives it its unique sound where resonance and cutoff frequencies are often manipulated in real-time when recording a track. This technique is known as “tweaking” and some of the earliest examples of this genre can be found in the works of Hardfloor, Solar Quest, and even Aphex Twin.",
+      "colors": {
+        "background": "001204",
+        "title": "00C804"
+      }
+    },
+    {
+      "name": "Berlin Techno",
+      "id": "berlin-techno",
+      "bpmRange": {
+        "min": 128,
+        "max": 130
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/6ANc5OpMDDMNMPbQdnqtVz?si=ec63c6c6277b4a15",
+      "artist": [
+        "Ellen Allien",
+        "Paul Kalkbrenner",
+        "Monolake",
+        "Modeselektor",
+        "Tangerine Dream",
+        "Ben Klock",
+        "Marcel Dettmann",
+        "Booka Shade",
+        "Cera Khin "
+      ],
+      "description": "Often regarded as the Techno capital of the world, Techno music in Berlin today is categorized under its own subgenre. The fall of the Berlin Wall in 1989 marked a new beginning that stood for hope and inclusivity. The youth organized (often illegal) raves in abandoned buildings such as bunkers, power plants, hangars, and even underground stations. The music played at these events was mostly House and Techno from Detroit. Eventually, the music became harder-sounding. There were no vocals and the bass was more aggressive. Clubs such as Berghain are considered as one of the most hallowed places for Techno music and while the genre cannot be classified by metronome or style as such, it is reflected in the subculture of Berlin that exists to date.’.",
+      "colors": {
+        "background": "271100",
+        "title": "FF9E16"
+      }
+    },
+    {
+      "name": "Dark Techno",
+      "id": "dark-techno",
+      "bpmRange": {
+        "min": 140,
+        "max": 160
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/20HPBtNDMo8dylOTiHYfHo?si=35a993a0fe8c428d",
+      "artist": [
+        "Amelie Lens",
+        "Umek",
+        "Kevin de Vries",
+        "SHADYM",
+        "Marika Rossa",
+        "Oscar Mulero",
+        "Gesaffelstein",
+        "Len Faki",
+        "Mark Dekoda"
+      ],
+      "description": "Dark Techno is categorized not based on the tempo or instrumentation, but rather the vibe of the music. The four-on-the-floor is repetitive and aggressive. The melodies convey themes of sci-fi, horror and are foreboding. However, this is not to be confused with Hardcore Techno. There is no aggression in Dark Techno, but rather an ominous sense of eerieness. Vocal melodies serve as textures and do not have lyrics. The emphasis is on the booming kick drum. ‘Dark Techno’ by Max Minimal and ‘Battery (Matt Mus Remix)’ by Andre Grandeza are examples of tracks that fall into this category of music. The German labels Endzeit, NG (New Generation) Records, Rangnarøk, and Subwoofer all focus on Dark Techno.",
+      "colors": {
+        "background": "140000",
+        "title": "C80C00"
+      }
+    },
+    {
+      "name": "Tech House",
+      "id": "tech-house",
+      "bpmRange": {
+        "min": 120,
+        "max": 128
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/3jS96GtZxhexyvjTv8sZ31?si=1acff8ee42ec4e9e",
+      "artist": [
+        "Dennis Cruz",
+        "Eats Everything",
+        "Mark Knight",
+        "Jamie Jones",
+        "Maxine",
+        "Andruss",
+        "Art of Tones",
+        "Hot Since 82",
+        "Illyus & Barrientos"
+      ],
+      "description": "As the name suggests, ‘Tech House’ combines elements of Deep and Minimal Techno with jazzy and soulful aspects of House music. Grooves generally consist of short and distorted kick drums, choppy hi-hats, and noisy snares. The TB-303 is extensively used and some producers also like to add samples of soulful vocals. Green Velvet, Patrick Topping, and Solardo all have chart-topping Tech House tracks in their discographies.",
+      "colors": {
+        "background": "05262A",
+        "title": "6FF0BB"
+      }
+    },
+    {
+      "name": "Dub Techno",
+      "id": "dub-techno",
+      "bpmRange": {
+        "min": 100,
+        "max": 110
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/5i7SfE5Jrg5LH7HRlwIKBB?si=82e935f839024894",
+      "artist": [
+        "Basic Channel",
+        "Fluxion",
+        "DeepChord",
+        "Andy Stott",
+        "Dublicator",
+        "Martin Schulte",
+        "Echospace",
+        "Deepchord"
+      ],
+      "description": "Producers Moritz Von Oswald and Mark Ernestus formed Basic Channel in the 90s and are generally credited for founding Dub Techno. Textural effects such as reverb, echo, and phasing are added for richness and to give Dub Techno its ambient quality. The emphasis is on minimalism and sonic relaxation. The ‘Dub’ comes in the form of the cultural representation of the sound system culture of Jamaica. Monolake’s “Cyan I” and “Direct Out/Direct Drive” by Continous Mode are examples of Dub Techno tracks.",
+      "colors": {
+        "background": "270028",
+        "title": "FF5441"
+      }
+    },
+    {
+      "name": "Melodic Techno",
+      "id": "melodic-techno",
+      "bpmRange": {
+        "min": 122,
+        "max": 130
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/0eaqbiFhdUtZYM36Jwaq2J?si=418fab570e1e4301",
+      "artist": [
+        "Tale of Us",
+        "Adriatique",
+        "Solomun",
+        "Huminal",
+        "Stephan Jolk",
+        "Airmate",
+        "Øostil",
+        "Woo York",
+        "Klangphonics"
+      ],
+      "description": "Melodic Techno is characterized by its use of arpeggiated harmonies usually in the minor scales. It has an atmospheric vibe and is thus very similar to Progressive Trance music. The tempo generally does not exceed 130 BPM. Solomun, the award-winning Bosnian-German DJ plays Melodic Techno music.",
+      "colors": {
+        "background": "041730",
+        "title": "7DDED8"
+      }
+    },
+    {
+      "name": "Ambient Techno",
+      "id": "ambient-techno",
+      "bpmRange": {
+        "min": 95,
+        "max": 100
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/15KhjI0TCm53YZsaVJPbTC?si=e345cec63e7444c3",
+      "artist": [
+        "Aphex Twin",
+        "Autechre",
+        "Dominick Fernow",
+        "Advanced Dreams",
+        "Gas",
+        "Voices From the Lake",
+        "Jonah Sharp",
+        "Janusz Jurga",
+        "Monolake"
+      ],
+      "description": "Ambient Techno is a relaxed and slower form of Techno, that is inspired by the essence of minimalism found in ambient music. Although the tracks are driven primarily by the beat, there is extensive use of textural and atmospheric sounds as layers. The genre emerged in the 90s and at the helm were artists such as Aphex Twin, Biosphere, The Orb, Carl Craig, and Pete Namlook. They were drawn to the ambient works of musicians like Brian Eno and Jon Hassel and incorporated their sonic style with Techno and Acid House rhythms. Labels such as Warp, Apollo, Beyond, and GPR are associated with Ambient Techno. Unlike others, they focus more on releasing full-length albums than just 12-inch singles.",
+      "colors": {
+        "background": "1D0039",
+        "title": "AF44FF"
+      }
+    },
+    {
+      "name": "Hardcore Techno",
+      "id": "hardcore-techno",
+      "bpmRange": {
+        "min": 150,
+        "max": 250
+      },
+      "linkPlaylist": "https://open.spotify.com/playlist/16gbh1KfbD1XXx6kN7XM2y?si=a3b7cfded94f47fb",
+      "artist": [
+        "Unicorn On Ketamine",
+        "Angerfist",
+        "Atari Teenage Riot",
+        "Darren Styles",
+        "Keith Flint",
+        "The Outside Agency",
+        "Praga Khan",
+        "Luna-C",
+        "The Prodigy"
+      ],
+      "description": "Hardcore Techno is regarded as one of the most abrasive and fastest forms of dance music that originated in Britain after its Summer Of Love in 1988. The tempo is usually between 160 to 200 BPM and a distorted sawtooth is used as the kick sound. The bass is heavily synthesized and saturated. The track “We Have Arrived” by the German producer Mescalinum United is often regarded as the first Hardcore song. Hardcore Techno was directly responsible for the birth of further subgenres like Gabber.",
+      "colors": {
+        "background": "1D001A",
+        "title": "E000C0"
+      }
+    }
+  ]
+}
